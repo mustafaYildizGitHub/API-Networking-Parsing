@@ -26,7 +26,7 @@
                                                 <rect key="frame" x="50" y="185.5" width="314" height="34"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="34" id="5Dw-bb-0oh"/>
-                                                    <constraint firstAttribute="width" constant="314" id="67p-Yk-D5y"/>
+                                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="314" id="67p-Yk-D5y"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                 <textInputTraits key="textInputTraits"/>
